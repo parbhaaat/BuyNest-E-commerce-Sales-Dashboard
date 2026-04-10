@@ -9,6 +9,10 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
+## Dashboard
+<img width="1366" height="762" alt="Screenshot 2026-04-10 135701" src="https://github.com/user-attachments/assets/6d58aa7e-4bd7-4b7d-930d-286c86381483" />
+
+---
 ##  Objectives  
 - Analyze overall sales and profit performance  
 - Identify high-performing products and categories  
