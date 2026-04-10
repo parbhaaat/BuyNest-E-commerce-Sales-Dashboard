@@ -1,6 +1,6 @@
 # 🛒 BuyNest E-Commerce Sales Dashboard (Power BI Project)
 
-## 📌 Project Overview  
+##  Project Overview  
 This project focuses on analyzing e-commerce sales data to uncover key business insights related to revenue, profit, customer behavior, and product performance.  
 
 An **interactive Power BI dashboard** was built to help stakeholders track KPIs, identify trends, and make data-driven decisions.
@@ -9,7 +9,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 🎯 Objectives  
+##  Objectives  
 - Analyze overall sales and profit performance  
 - Identify high-performing products and categories  
 - Understand customer purchasing behavior  
@@ -18,7 +18,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 📊 Key KPIs  
+##  Key KPIs  
 
 | KPI | Value |
 |-----|------|
@@ -29,7 +29,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 📈 Dashboard Features  
+##  Dashboard Features  
 
 ### 📅 Sales & Profit Analysis  
 - Monthly profit trends highlight growth and loss periods  
@@ -56,7 +56,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 🔍 Key Insights  
+##  Key Insights  
 
 - 📌 Clothing is the **top-performing category**  
 - 📉 Some months show **negative profit**, indicating cost issues  
@@ -66,7 +66,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 💡 Recommendations  
+##  Recommendations  
 
 - Increase marketing during **low-performing months**  
 - Optimize pricing and cost strategies in **loss-making periods**  
@@ -76,7 +76,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 🧠 Project Learnings  
+##  Project Learnings  
 
 - Data cleaning and preprocessing using Power BI  
 - Building data models and relationships  
@@ -107,5 +107,3 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 - User-friendly UI  
 
 ---
-
-## 📂 Project Structure  
