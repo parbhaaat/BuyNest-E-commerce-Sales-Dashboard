@@ -87,7 +87,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 
 ---
 
-## 🛠️ Tools & Technologies Used  
+##  Tools & Technologies Used  
 
 ### 🔹 Power BI Features  
 - Power Query Editor (Data Cleaning & Transformation)  
