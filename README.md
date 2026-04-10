@@ -10,7 +10,7 @@ The dashboard provides a **holistic view of sales performance** using dynamic vi
 ---
 
 ## Dashboard
-<img width="1366" height="762" alt="Screenshot 2026-04-10 135701" src="https://github.com/user-attachments/assets/6d58aa7e-4bd7-4b7d-930d-286c86381483" />
+<img width="1361" height="762" alt="Screenshot 2026-04-10 140832" src="https://github.com/user-attachments/assets/15e2f90d-9c3d-4099-9f7a-2fdffb6edf19" />
 
 ---
 ##  Objectives  
